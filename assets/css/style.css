@@ -1,0 +1,153 @@
+/*
+wood brown: A89F68;
+army green: 41521F;
+*/
+*{
+
+}
+.primera-seccion{
+	background-image: url(../img/portada.jpg);
+	height: 100vh;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+#marca{
+	font-family: 'Crimson Text', serif
+	color: white;
+	font-size: 20px;
+	margin-left: 50px;
+}
+a{
+	color: white;
+	font-size: 20px;
+	margin-right: 50px;
+}
+span{
+	background-color: white;
+}
+.portada-texto{
+	margin-top: 300px;
+}
+#cuadro-texto{
+	color: white;
+	margin-top: 150px;
+}
+
+/*segunda seccion*/
+#titulo{
+	font-size: 18px;
+	margin-top: 100px;
+	margin-bottom: 30px;
+}
+#gold{
+	color: #BA8E0A;
+}
+#vinculo{
+	color: #BA8E0A;
+}
+.features p{
+	font-size: 15px;
+}
+#koala3{
+	margin-top: 50px;
+}
+/*tercera seccion*/
+.tercera-seccion{
+	background-color: #A89F68;
+}
+#titulo-verde{
+	color: #41521F;
+}
+.btn{
+	border: none; 
+	background-color: #41521F;
+}
+#koala-tercero{
+	margin-top: 20vh;
+	margin-bottom: 50px;
+}
+.modal-content{
+	color:  #BA8E0A;
+}
+.close{
+	color: white;
+}
+
+/*cuarta seccion*/
+#carousel-example-generic{
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+#parrafo-cuatro{
+	font-size: 20px;
+}
+
+/*QUINTA SECCION*/
+.quinta-seccion{
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+#quinta{
+	color: #BA8E0A;
+}
+#parrafo-quinto{
+	margin-top: 25px;
+}
+.fa{
+	color: #BA8E0A;
+	margin-bottom: 10px;
+}
+/*sexta seccion*/
+.sexta-seccion{
+	background-color: #A89F68;
+}
+.line{
+	border-top: 1px solid white;
+}
+small{
+	color: white;
+	font-size: 15px;
+}
+big{
+	color: white;
+	font-size: 80px;
+}
+p{
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+#sexta h4{
+	color: #41521F; 
+	margin-top: 50px;
+	font-size: 20px;
+}
+#valores-sexta{
+	margin-bottom: 100px;
+}
+.well{
+	background-color: #41521F;
+	border-color: black;
+	color: white;
+}
+/*footer*/
+.foo{
+	color: #BA8E0A;
+	background-color: #41521F;
+}
+.foo h5{
+		margin-top: 70px;
+}
+#texto-pie{
+	color: white;
+}
+.foo a{
+	font-size: 15px;
+}
+#items{
+	color: #BA8E0A;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
